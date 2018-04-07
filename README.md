@@ -2,7 +2,7 @@
 
 Job Application with React, Redux, Redux-form, SASS, Flow.
 
-[Demo verson. Click here!](https://http://anhvo-filling-form.surge.sh/)
+[Demo verson. Click here!](http://anhvo-filling-form.surge.sh/)
 
 
 ## Quick Overview.
